@@ -4,19 +4,22 @@
 <summary>Projects</summary>
 <br>
 
-[UC37software](https://github.com/Mrpi314tech/UC37software)
+UC37software:
+  https://github.com/Mrpi314tech/UC37software
 
-[Mario Hacked NES](https://github.com/Mrpi314tech/Mario_Pipe)
+Mario Hacked NES:
+  https://github.com/Mrpi314tech/Mario_Pipe
 
 </details>
 
 <details>
 <summary>Programming pages</summary>
 <br>
+Github:
+https://github.com/Mrpi314tech
 
-[Github](https://github.com/Mrpi314tech)
-
-[Scratch](https://scratch.mit.edu/users/mrpi314/)
+Scratch:
+https://scratch.mit.edu/users/mrpi314/
 
 </details>
 
