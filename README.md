@@ -31,7 +31,7 @@ git clone https://github.com/Mrpi314tech/Mario_Pipe && chmod +x ~/Mario_Pipe/ins
 <h2>About</h2>
 
 Mrpi314 is a programmer who knows Bash and Python.
-He currently has 2 projects, UC37sftware and the Mario hacked NES. UC37software
+He currently has 2 projects, UC37software and the Mario hacked NES. UC37software
 is a chatbot for your raspberry pi. He is fun to talk to and can easily be
 programmed to do things for you just by voice.
 The Mario Hacked NES was inspired from the Mark Rober Youtube video. It will
