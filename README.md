@@ -1,44 +1,40 @@
 ![](https://github.com/Mrpi314tech/Mrpi314tech.github.io/blob/main/Mrpi314.gif)
-# Mrpi314tech
+<br>
+<h1>Mrpi314tech</h1>
 <details>
 <summary>Projects</summary>
+<a href="https://github.com/Mrpi314tech/UC37software">UC37software</a>
 <br>
-
-UC37software:
-  https://github.com/Mrpi314tech/UC37software
-
-Mario Hacked NES:
-  https://github.com/Mrpi314tech/Mario_Pipe
-
+<a href="https://github.com/Mrpi314tech/Mario_Pipe">Mario Hacked NES</a>
 </details>
-
+<br>
 <details>
 <summary>Programming pages</summary>
+<a href="https://github.com/Mrpi314tech">Github</a>
 <br>
-Github:
-https://github.com/Mrpi314tech
-
-Scratch:
-https://scratch.mit.edu/users/mrpi314/
-
+<a href="https://scratch.mit.edu/users/mrpi314/">Scratch</a>
 </details>
-
+<br>
 <details>
 <summary>Install</summary>
 <br>
-
+<br>
 UC37:
+<br>
 
 ```bash
 git clone https://github.com/Mrpi314tech/UC37software && chmod +x ~/UC37software/UC37_install.sh && ~/UC37software/UC37_install.sh
 ```
+
+<br>
+
 Mario Pipe:
+<br>
 
 ```bash
 git clone https://github.com/Mrpi314tech/Mario_Pipe && chmod +x ~/Mario_Pipe/install.sh && ~/Mario_Pipe/install.sh
 ```
-
-
+<br>
 </details>
 
 ## About
