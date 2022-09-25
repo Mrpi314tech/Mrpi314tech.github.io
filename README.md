@@ -28,7 +28,7 @@ git clone https://github.com/Mrpi314tech/Mario_Pipe && chmod +x ~/Mario_Pipe/ins
 <br>
 </details>
 
-## About
+<h2>About</h2>
 
 Mrpi314 is a programmer who knows Bash and Python.
 He currently has 2 projects, UC37sftware and the Mario hacked NES. UC37software
