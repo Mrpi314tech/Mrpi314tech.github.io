@@ -17,15 +17,18 @@
 <details>
 <summary>Install</summary>
 
-UC37:
-<br>
-git clone https://github.com/Mrpi314tech/UC37software && chmod +x ~/UC37software/UC37_instal.sh && ~/UC37software/UC37_install.sh
-<br>
-Mario Pipe:
-<br>
-git clone https://github.com/Mrpi314tech/Mario_Pipe && chmod +x ~/Mario_Pipe/install.sh && ~/Mario_Pipe/install.sh
-<br>
-<br>
+<p>UC37:</p>
+<pre>
+  <code>
+    git clone https://github.com/Mrpi314tech/UC37software && chmod +x ~/UC37software/UC37_instal.sh && ~/UC37software/UC37_install.sh
+  </code>
+</pre>
+<p>Mario Pipe:</p>
+<pre>
+  <code>
+    git clone https://github.com/Mrpi314tech/Mario_Pipe && chmod +x ~/Mario_Pipe/install.sh && ~/Mario_Pipe/install.sh
+  </code>
+</pre>
 </details>
 
 <h2>About</h2>
