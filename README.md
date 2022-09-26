@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/Mrpi314.gif" alt="Mrpi314 logo">
+<img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/Mrpi314.png" alt="Mrpi314 logo">
 <h1>Mrpi314tech</h1>
 <details>
 <summary>Projects</summary>
