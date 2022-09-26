@@ -16,7 +16,9 @@
 
 <details>
 <summary>Install</summary>
-
+<br>
+Copy and paste these into the command line
+<br>
 <p>UC37:</p>
 <pre>
   <code>
