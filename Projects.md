@@ -54,4 +54,4 @@ Asteroid falling is a game on scratch where you fly a rocket ship and dodge aste
 
 </details>
 <br>
-<a href='https://mrpi314tech.github.io'><button>Home</button></a>
+ <h1><a href='https://mrpi314tech.github.io'><button>Home</button></a></h1>
