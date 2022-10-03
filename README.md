@@ -1,9 +1,11 @@
 <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo">
 <br>
 <h1>Mrpi314tech</h1>
+<h2>
 <a href='https://mrpi314tech.github.io/Projects'><button>Projects</button></a>
 <a href='https://github.com/Mrpi314tech'><button>Github</button></a>
 <a href='https://scratch.mit.edu/users/mrpi314/'><button>Scratch</button></a>
+</h2>
 <br>
 <h2>About</h2>
 
