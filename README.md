@@ -7,12 +7,12 @@
 <br>
 <h2>About</h2>
 
-Mrpi314 is a programmer who knows Bash and Python.
+<h3>Mrpi314 is a programmer who knows Bash and Python.
 He currently has 2 projects, UC37software and the Mario hacked NES. UC37software
 is a chatbot for your raspberry pi. He is fun to talk to and can easily be
 programmed to do things for you just by voice.
 The Mario Hacked NES was inspired from the Mark Rober Youtube video. It will
-run on your raspberry pi with nothing except a speaker and a webcam.
+run on your raspberry pi with nothing except a speaker and a webcam.</h3>
 
 
 </html>
