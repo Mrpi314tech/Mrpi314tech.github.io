@@ -7,4 +7,4 @@ Hotdogs can last for 20 years in a landfill.
 <br>
 <a href="https://kids.nationalgeographic.com/weird-but-true">Source: National Geographic</a>
 <br>
-<h1><a href='https://mrpi314tech.github.io'><button>Home</button></a></h1>
+<h1><a href='https://mrpi314.com'><button>Home</button></a></h1>
