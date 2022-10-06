@@ -1,6 +1,6 @@
 layout: page
 title: "PAGE-TITLE"
-permalink: /URL-PATH
+permalink: mrpi314tech.github.io/Random
 
 <h1>One fact smarter:</h1>
 
