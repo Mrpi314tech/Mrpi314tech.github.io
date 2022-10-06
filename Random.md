@@ -1,7 +1,3 @@
-layout: page
-title: "PAGE-TITLE"
-permalink: mrpi314tech.github.io/Random
-
 <h1>One fact smarter:</h1>
 
 <h3>Did you know?</h3>
