@@ -4,6 +4,7 @@
 <h2>
 <a href='https://mrpi314tech.github.io/Projects'><button>Projects</button></a>
 <a href='https://mrpi314tech.github.io/Updates'><button>Updates</button></a>
+<a href='https://mrpi314tech.github.io/Random'><button>Random</button></a>
 <a href='https://github.com/Mrpi314tech'><button>Github</button></a>
 <a href='https://scratch.mit.edu/users/mrpi314/'><button>Scratch</button></a>
 </h2>
