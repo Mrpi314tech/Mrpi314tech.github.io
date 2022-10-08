@@ -1,3 +1,4 @@
+<body style="background-color:blue;">
 <h1>Projects<h1>
 <details>
 <summary>UC37</summary>
