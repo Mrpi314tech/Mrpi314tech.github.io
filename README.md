@@ -1,3 +1,4 @@
+<body style="background-color:blue;">
 <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo">
 <br>
 <h1>Mrpi314tech</h1>
