@@ -6,6 +6,6 @@ Yoda was created based of Albert Einstein<br>
      width="250"
      height="250">
 <br>
-<a href="https://kids.nationalgeographic.com/weird-but-true">Source: National Geographic</a>
+<h2><a href='https://kids.nationalgeographic.com/weird-but-true'><button>National Geographic</button></a></h2>
 <br>
 <h1><a href='https://mrpi314.com'><button>Home</button></a></h1>
