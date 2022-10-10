@@ -9,15 +9,9 @@ him you will find that it is much like talking to a real person.
 <br>
   <a href="https://github.com/Mrpi314tech/UC37software"><button>UC37software</button></a>
 <p>Install:</p>
-<pre>
-  <code>
-    git clone https://github.com/Mrpi314tech/UC37software && chmod +x ~/UC37software/UC37_instal.sh && ~/UC37software/UC37_install.sh
-  </code>
-</pre>
+<pre><code>git clone https://github.com/Mrpi314tech/UC37software && chmod +x ~/UC37software/UC37_instal.sh && ~/UC37software/UC37_install.sh</code></pre>
 <p>Update:</p>
-    <code>
-     ~/UC37_update.sh
-    </code>
+<pre><code>~/UC37_update.sh</code></pre>
 </details>
 
 
@@ -32,11 +26,7 @@ This is a simple code to make the Mark Rober Hacked NES. All you need is a Raspb
 <br>
   <a href="https://github.com/Mrpi314tech/Mario_Pipe"><button>Mario Pipe</button></a>
 <p>Install:</p>
-<pre>
-  <code>
-    git clone https://github.com/Mrpi314tech/Mario_Pipe && chmod +x ~/Mario_Pipe/install.sh && ~/Mario_Pipe/install.sh
-  </code>
-</pre>
+<pre><code>git clone https://github.com/Mrpi314tech/Mario_Pipe && chmod +x ~/Mario_Pipe/install.sh && ~/Mario_Pipe/install.sh</code></pre>
 
 </details>
 
