@@ -1,4 +1,4 @@
-
+<body style="background-color:blue;">
 <h1>Previous Random Things</h1>
 <br>
 <h3><a href='https://mrpi314.com/Random'><button>Random</button></a></h3>
