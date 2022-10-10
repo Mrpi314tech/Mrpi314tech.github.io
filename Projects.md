@@ -7,7 +7,7 @@ UC37 is an artificial intelligence program that acts like a human. When you talk
 him you will find that it is much like talking to a real person.
 <br>
 <br>
-<a href="https://github.com/Mrpi314tech/UC37software">UC37software</a>
+  <a href="https://github.com/Mrpi314tech/UC37software"><button>UC37software</button></a>
 <p>Install:</p>
 <pre>
   <code>
@@ -27,7 +27,7 @@ This is a simple code to make the Mark Rober Hacked NES. All you need is a Raspb
 
 <br>
 <br>
-<a href="https://github.com/Mrpi314tech/Mario_Pipe">Mario Pipe</a>
+  <a href="https://github.com/Mrpi314tech/Mario_Pipe"><button>Mario Pipe</button></a>
 <p>Install:</p>
 <pre>
   <code>
@@ -51,7 +51,7 @@ This is a simple code to make the Mark Rober Hacked NES. All you need is a Raspb
 Asteroid falling is a game on scratch where you fly a rocket ship and dodge asteroids
 <br>
 <br>
-<a href="https://scratch.mit.edu/projects/538195304">Asteroid Falling</a>
+   <a href="https://scratch.mit.edu/projects/538195304"><button>Asteroid Falling</button></a>
 
 </details>
 <br>
