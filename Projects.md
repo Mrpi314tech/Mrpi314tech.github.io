@@ -51,7 +51,7 @@ This is a simple code to make the Mark Rober Hacked NES. All you need is a Raspb
 Asteroid falling is a game on scratch where you fly a rocket ship and dodge asteroids
 <br>
 <br>
-   <a href="https://scratch.mit.edu/projects/538195304"><button>Asteroid Falling</button></a>
+   <a href="https://scratch.mit.edu/projects/538195304/embed"><button>Asteroid Falling</button></a>
 
 </details>
 <br>
