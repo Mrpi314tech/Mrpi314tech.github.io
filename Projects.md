@@ -14,7 +14,10 @@ him you will find that it is much like talking to a real person.
     git clone https://github.com/Mrpi314tech/UC37software && chmod +x ~/UC37software/UC37_instal.sh && ~/UC37software/UC37_install.sh
   </code>
 </pre>
-
+<p>Update:</p>
+    <code>
+     ~/UC37_update.sh
+    </code>
 </details>
 
 
