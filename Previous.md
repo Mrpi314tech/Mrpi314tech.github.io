@@ -4,6 +4,8 @@ permalink: https://mrpi314.com/Random/Previous
 
 <h1>Previous Random Things</h1>
 <br>
+<h3><a href='https://mrpi314.com/Random'><button>Random</button></a></h3>
+<br>
 <h2>10/9/22</h2>
 <br>
 It takes a sloth a whole month to travel one mile.<br>
