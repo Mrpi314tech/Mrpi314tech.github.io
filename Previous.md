@@ -1,6 +1,6 @@
 layout: page
 title: "Previous"
-permalink: https://mrpi314.com/Random/Previous
+permalink: mrpi314.com/Random/Previous
 
 <h1>Previous Random Things</h1>
 <br>
