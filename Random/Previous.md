@@ -3,6 +3,15 @@
 <br>
 <h3><a href='https://mrpi314.com/Random'><button>Random</button></a></h3>
 <br>
+
+<h2>10/10/22</h2>
+<br>
+A peanut is not a nut
+<img src="https://www.crazyrichards.com/wp-content/uploads/2016/11/PeanutParallax_3.png" alt="random pic"
+     width="250"
+     height="250"
+<br>
+
 <h2>10/9/22</h2>
 <br>
 It takes a sloth a whole month to travel one mile.<br>
@@ -10,6 +19,7 @@ It takes a sloth a whole month to travel one mile.<br>
      width="250"
      height="250">
 <br>
+     
 <h2>10/8/22</h2>
 <br>
 Yoda was designed to look like Albert Einstein.
@@ -18,6 +28,7 @@ Yoda was designed to look like Albert Einstein.
      width=250
      height=250>
 <br>
+     
 <h2>10/7/22</h2>
 <br>
 It takes 20 years for a hotdog to decompose in a landfill
