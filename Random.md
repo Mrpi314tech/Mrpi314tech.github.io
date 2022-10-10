@@ -1,9 +1,9 @@
 <body style="background-color:blue;">
 <h1>One fact smarter:</h1>
 <h3>Did you know?</h3>
-A peanut is not a nut
+There are cars that run on used french fry oil
 <br>
-<img src="https://www.crazyrichards.com/wp-content/uploads/2016/11/PeanutParallax_3.png" alt="random pic"
+<img src="https://nationaltoday.com/wp-content/uploads/2019/07/national-french-fry-day.jpg.webp" alt="random pic"
      width="250"
      height="250">
 <br>
