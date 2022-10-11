@@ -1,11 +1,11 @@
 <body style="background-color:blue;">
 <h1>One fact smarter:</h1>
 <h3>Did you know?</h3>
-There are cars that run on used french fry oil
+There has been red rain in Europe and Asia
 <br>
-<img src="https://nationaltoday.com/wp-content/uploads/2019/07/national-french-fry-day.jpg.webp" alt="random pic"
-     width="250"
-     height="250">
+<img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2015/11/Red-Rain-Cloud-600x480.jpg" alt="random pic"
+     width="300"
+     height="240">
 <br>
 <h2><a href='https://kids.nationalgeographic.com/weird-but-true'><button>National Geographic</button></a></h2>
 <br>
