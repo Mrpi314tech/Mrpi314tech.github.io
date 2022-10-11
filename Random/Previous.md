@@ -3,7 +3,12 @@
 <br>
 <h3><a href='https://mrpi314.com/Random'><button>Random</button></a></h3>
 <br>
-
+<h2>10/11/22</h2>
+There are cars that run on used french fry oil
+<br>
+<img src="https://nationaltoday.com/wp-content/uploads/2019/07/national-french-fry-day.jpg.webp" alt="random pic"
+     width="250"
+     height="250">
 <h2>10/10/22</h2>
 <br>
 A peanut is not a nut
