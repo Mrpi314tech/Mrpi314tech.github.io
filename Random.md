@@ -1,11 +1,11 @@
 <body style="background-color:blue;">
 <h1>One fact smarter:</h1>
 <h3>Did you know?</h3>
-There has been red rain in Europe and Asia
+The Ancient Egyptians taught monkeys how to play music and dance to it.
 <br>
-<img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2015/11/Red-Rain-Cloud-600x480.jpg" alt="random pic"
-     width="300"
-     height="240">
+<img src="https://st.depositphotos.com/1097037/1822/v/950/depositphotos_18221301-stock-illustration-cute-dancing-monkey.jpg" alt="random pic"
+     width="250"
+     height="250">
 <br>
 <h2><a href='https://kids.nationalgeographic.com/weird-but-true'><button>National Geographic</button></a></h2>
 <br>
