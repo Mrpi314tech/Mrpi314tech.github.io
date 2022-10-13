@@ -3,6 +3,12 @@
 <br>
 <h3><a href='https://mrpi314.com/Random'><button>Random</button></a></h3>
 <br>
+<h2>10/13/22</h2>
+ There has been red rain in Europe and Asia
+<br>
+<img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2015/11/Red-Rain-Cloud-600x480.jpg" alt="random pic"
+     width="300"
+     height="240">
 <h2>10/11/22</h2>
 There are cars that run on used french fry oil
 <br>
