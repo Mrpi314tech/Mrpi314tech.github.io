@@ -48,7 +48,7 @@ Asteroid falling is a game on scratch where you fly a rocket ship and dodge aste
    <br>
    <div style="width:100%; padding-bottom:56.25%; position:relative;">
   <iframe src="https://scratch.mit.edu/projects/538195304/embed" style="position:absolute; top:0px; left:0px; 
-  width:90%; height:150%; border: none; overflow: hidden;"></iframe>
+  width:90%; height:130%; border: none; overflow: hidden;"></iframe>
 </div>
    <br>
 </details>
