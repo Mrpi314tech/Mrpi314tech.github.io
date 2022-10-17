@@ -1,9 +1,8 @@
 <body style="background-color:blue;">
 <h1>One fact smarter:</h1>
 <h3>Did you know?</h3>
-The Ancient Egyptians taught monkeys how to play music and dance to it.
-<br>
-<img src="https://st.depositphotos.com/1097037/1822/v/950/depositphotos_18221301-stock-illustration-cute-dancing-monkey.jpg" alt="random pic"
+A salmon's smell is 1 million times better than a human's<br>
+<img src="https://charatoon.com/photo/1280.png" alt="random pic"
      width="250"
      height="250">
 <br>
