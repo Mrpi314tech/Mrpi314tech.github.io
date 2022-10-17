@@ -3,6 +3,12 @@
 <br>
 <h3><a href='https://mrpi314.com/Random'><button>Random</button></a></h3>
 <br>
+<h2>10/17/22</h2>
+The Ancient Egyptians taught monkeys how to play music and dance to it.
+<br>
+<img src="https://st.depositphotos.com/1097037/1822/v/950/depositphotos_18221301-stock-illustration-cute-dancing-monkey.jpg" alt="random pic"
+     width="250"
+     height="250">
 <h2>10/13/22</h2>
  There has been red rain in Europe and Asia
 <br>
