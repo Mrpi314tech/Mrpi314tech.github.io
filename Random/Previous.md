@@ -3,6 +3,11 @@
 <br>
 <h3><a href='https://mrpi314.com/Random'><button>Random</button></a></h3>
 <br>
+<h2>11/17/22</h2>
+A salmon's smell is 1 million times better than a human's<br>
+<img src="https://charatoon.com/photo/1280.png" alt="random pic"
+     width="250"
+     height="250">
 <h2>10/17/22</h2>
 The Ancient Egyptians taught monkeys how to play music and dance to it.
 <br>
