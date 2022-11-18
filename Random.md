@@ -1,10 +1,11 @@
 <body style="background-color:blue;">
 <h1>One fact smarter:</h1>
 <h3>Did you know?</h3>
-A salmon's smell is 1 million times better than a human's<br>
-<img src="https://charatoon.com/photo/1280.png" alt="random pic"
-     width="250"
-     height="250">
+"Happy Birthday" was the first song transmitted from space to earth
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Birthday_candles.jpg" alt="random pic"
+     width="422.5"
+     height="156.25">
 <br>
 <h2><a href='https://kids.nationalgeographic.com/weird-but-true'><button>National Geographic</button></a></h2>
 <br>
