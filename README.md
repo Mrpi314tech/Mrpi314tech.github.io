@@ -1,4 +1,4 @@
-<body style="background-color:blue;">
+<body style="background-color:lightblue;">
 <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo">
 <br>
 <h1>Mrpi314 Tech</h1>
@@ -13,4 +13,4 @@
 <h2>About</h2>
 
 <h3>Mrpi314 is a programmer who knows Bash and Python.
-He is currently working on a chatbot program called UC37. UC37 is a python chatbot for your raspberry pi, meant to help out like Amazon Alexa or "OK Google." UC37 was jsut updated to add skills like a timer and kasa tp-link control.</h3>
+He is currently working on a chatbot program called UC37. UC37 is a python chatbot for your raspberry pi, meant to help out like Amazon Alexa or "OK Google." UC37 was just updated to add skills like a timer and kasa tp-link control.</h3>
