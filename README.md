@@ -1,4 +1,5 @@
 <body style="background-color:lightblue;">
+Sup Colin
 <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo">
 <br>
 <h1>Mrpi314 Tech</h1>
