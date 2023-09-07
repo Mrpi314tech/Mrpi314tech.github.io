@@ -21,7 +21,6 @@ Scoring is a new e-sports idea that is still in development. It has two teams wh
 <br>
 <br>
   <a href="https://github.com/Mrpi314tech/Scoring"><button>Scoring Repo</button></a>
-</pre>
 </details>
 
 <details>
@@ -30,7 +29,6 @@ An easy and simple Python package for getting the time.
 <br>
 <br>
   <a href="https://github.com/Mrpi314tech/Goodclock"><button>Goodclock Repo</button></a>
-</pre>
 </details>
 
 <details>
