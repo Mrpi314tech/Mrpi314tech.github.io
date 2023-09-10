@@ -14,4 +14,4 @@
 <br>
 <h2>About</h2>
 
-<h3>Hello, I am Mrpi314. I am a programmer and I use the know the language Python, Bash, HTML, NGINX, and some CSS. I work on a variety of projects ranging from AI voice assistants to web based applications/websites.</h3>
+<h3>Hello, I am Mrpi314. I am a linux developer and I use the languages Python, Bash, HTML, NGINX, and some CSS. I work on a variety of projects ranging from AI voice assistants to web based applications.</h3>
