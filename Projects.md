@@ -7,7 +7,7 @@ Welcome to Jimbot!
 Jimbot is a virtual assistant for your computer. It can do many things, like open an application, run a command, type with your voice, search things on google, and much more.
 <br>
 <br>
-  <a href="https://github.com/Mrpi314tech/Jimbot"><button>Jimbot Repo</button></a>
+  <a href="http://jb.mrpi314.com"><button>Jimbot Website</button></a>
 <p>Install:</p>
 Download <a href='https://github.com/Mrpi314tech/Jimbot/releases/download/v1.0.1/Install.sh'>this file</a> and execute it.
   <br>
