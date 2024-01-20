@@ -10,7 +10,6 @@
 <a href='https://scratch.mit.edu/users/mrpi314/'><button>Scratch</button></a>
 <a href='https://mrpi314.com/Thegames'><button>The Games</button></a>
 <a href='https://mrpi314.com/Blankpage'><button>Blank page</button></a>
-<a href='https://mrpi314.com/googlechat'><button>Googley Chat</button></a>
 </h2>
 <br>
 <h2>About</h2>
