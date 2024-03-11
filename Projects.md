@@ -6,10 +6,13 @@
   <details>
   <summary>CustomChat</summary>
   CustomChat: An AI-powered chatbot with easy customization. Powered by Jimbot AI, it opens websites, executes commands, and delivers tailored responses. Enhance your projects with   CustomChat's versatility and adaptability.
+  <br>
+  <br>
+  <a href="https://mrpi314.com/customchat"><button>Online Demo</button></a>
+  <br>
+  <br>
   <p>Install:</p>
   Download <a href='https://github.com/Mrpi314tech/CustomChat/releases/download/v1.0.0/CustomChat.zip'>this file</a>, unzip it, and run main.py.
-  <p>Demo</p>
-    <a href='https://mrpi314.com/customchat'>Click Here</a>
   </details>
 
   <details>
