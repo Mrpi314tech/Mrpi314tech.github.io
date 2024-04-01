@@ -12,7 +12,10 @@
   <br>
   <br>
   <p>Install:</p>
-  Download <a href='https://github.com/Mrpi314tech/CustomChat/releases/download/v1.0.3/CustomChat.zip'>this file</a>, unzip it, and run main.py.
+  <pre><code>pip install CustomChat</code></pre>
+  <p>To run:</p>
+<pre><code>import CustomChat
+CustomChat.run()</code></pre>
   </details>
 
   <details>
