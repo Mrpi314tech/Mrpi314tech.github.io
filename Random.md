@@ -9,6 +9,6 @@
 <br>
 <h2><a href='https://kids.nationalgeographic.com/weird-but-true'><button>National Geographic</button></a></h2>
 <br>
-<h2><a href='https://mrpi314.com/Random/Previous'><button>Previous Randomness</button></a></h2>
+<h2><a href='https://chat314.com/Random/Previous'><button>Previous Randomness</button></a></h2>
 <br>
-<h1><a href='https://mrpi314.com'><button>Home</button></a></h1>
+<h1><a href='https://chat314.com'><button>Home</button></a></h1>
