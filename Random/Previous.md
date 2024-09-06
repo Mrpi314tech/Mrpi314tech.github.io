@@ -1,7 +1,7 @@
 <body style="background-color:blue;">
 <h1>Previous Random Things</h1>
 <br>
-<h3><a href='https://mrpi314.com/Random'><button>Random</button></a></h3>
+<h3><a href='https://chat314.com/Random'><button>Random</button></a></h3>
 <br>
 <h2>11/17/22</h2>
 A salmon's smell is 1 million times better than a human's<br>
