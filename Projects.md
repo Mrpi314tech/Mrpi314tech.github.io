@@ -8,7 +8,7 @@
   CustomChat: An AI-powered chatbot with easy customization. Powered by Jimbot AI, it opens websites, executes commands, and delivers tailored responses. Enhance your projects with   CustomChat's versatility and adaptability.
   <br>
   <br>
-  <a href="https://mrpi314.com/customchat"><button>Online Demo</button></a>
+  <a href="https://chat314.com/customchat"><button>Online Demo</button></a>
   <br>
   <br>
   <p>Install:</p>
@@ -25,7 +25,7 @@ CustomChat.run()</code></pre>
   Jimbot is a virtual assistant for your computer. It can do many things, like open an application, run a command, type with your voice, search things on google, and much more.
   <br>
   <br>
-    <a href="http://jb.mrpi314.com"><button>Jimbot Website</button></a>
+    <a href="http://jb.chat314.com"><button>Jimbot Website</button></a>
   <p>Install:</p>
   Download <a href='https://github.com/Mrpi314tech/Jimbot/releases/download/v1.0.1/Install.sh'>this file</a> and execute it.
     <br>
@@ -60,9 +60,9 @@ CustomChat.run()</code></pre>
     <a href="https://github.com/Mrpi314tech/web-terminal"><button>web term repo</button></a>
   </details>
   Websites:
-  <a href="https://mrpi314.com"><button>mrpi314.com</button></a>
-  <a href="https://jb.mrpi314.com"><button>jb.mrpi314.com</button></a>
+  <a href="https://chat314.com"><button>chat314.com</button></a>
+  <a href="https://jb.chat314.com"><button>jb.chat314.com</button></a>
   <a href="https://123scoring.com"><button>123scoring.com</button></a>
 </details>
 <br>
- <h1><a href='https://mrpi314.com'><button>Home</button></a></h1>
+ <h1><a href='https://chat314.com'><button>Home</button></a></h1>
