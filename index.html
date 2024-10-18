@@ -127,6 +127,23 @@
         summary {
             font-size: 20px;
         }
+        .projects {
+            display: block;
+            text-align: center;
+            align-items: center;
+        }
+
+        .projects details {
+            background-color: rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: transform 0.3s ease;
+        }
+
+        .projects details:hover {
+            transform: translatey(-10px);
+        }
 
         /* Smooth scrolling for better user experience */
         html {
@@ -138,6 +155,7 @@
             .container {
                 width: 90%;
             }
+
 
             .section {
                 width: 100%;
@@ -171,12 +189,13 @@
     <div class="container">
         <h1>Welcome</h1>
         <p>PiBot is your personal online AI assistant. PiBot uses a simple neural network to meet your needs and answer your questions. The neural network sends questions to different models to complete your tasks efficiently.</p>
-
-        <div class="projects">
-            <h1>How it works</h1>
+        <h1>How it works</h1>
             <a href="https://github.com/Mrpi314tech/Classy" class="small-btn">Source code</a>
             <br>
             PiBot uses the "Classy-AI" python package to determine where your text input should be processed. It uses the tools and models below to process your input.
+        <br>
+        <br>
+        <div class="projects">
 
             <details><summary>Classy</summary>
                 <p>Classy is a python module that utilizes AI to classify natural language into categories for processing with other models and tools, such as OpenAI's ChatGPT and Dall-E, Search_Scrape, and CustomChat.</p>
@@ -202,13 +221,11 @@
 </section>
 
 <section id="about" class="section">
-    <details>
-        <summary>About the Creator</summary>
-        <div class="container">
+      About the Creator
+      <div class="container">
             <p>I make web apps with Python and HTML, and I also like creating small neural networks. I deploy my web apps with Linode and GitHub. I use many tools and languages, such as HTML, JavaScript, CSS, Python, Bash, NGINX, and PyTorch.</p>
             <img width="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpi314tech" alt="Mrpi314tech's language stats">
         </div>
-    </details>
 </section>
 
 <footer>
